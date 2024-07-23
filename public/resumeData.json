@@ -1,45 +1,30 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Devaanshi Chaturvedi",
+    "occupation": "Developer",
+    "description": "An extremely passionate and highly motivated",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I am Devaanshi Chaturvedi, a tech-savvy 4th-year Information Technology Engineering student from Banasthali Vidyapith. With a burning passion for knowledge and a knack for tinkering with cutting-edge tech, I am a developer.\n\nPassionate about coding, open source, and App-Web development, I have a keen interest in AI/ML technology and IoT. I actively engage in tech communities, explore opportunities, participate in hackathons, attend conferences, and contribute to progressive community building.\n\nEager for teamwork and driven by the desire to seize golden opportunities, I am always ready to grind, level up, and make the most of every moment. Let's build something amazing together!",
+    "contactmessage": "Get in touch with me/ Hire me",
+    "email": "devaanshic1509@gmail.com",
+    "phone": "+91 9968229969",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "RG-6 300sq Cosmos Greens,",
+      "city": "Bhiwadi",
+      "state": "Alwar, Rajasthan",
+      "zip": "301019"
     },
-    "website": "https://www.papareact.com/course",
+    "website": "https://adagodord.com/",
     "resumedownload": "http://papareact.com",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/saajansanghahttps://www.linkedin.com/in/devaanshi-chaturvedi/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/devaanshi15",
         "className": "fa fa-github"
       }
     ]

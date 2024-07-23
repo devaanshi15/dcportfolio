@@ -20,12 +20,12 @@ const Footer = ({ data }) => {
           <ul className="social-links">{networks}</ul>
 
           <ul className="copyright">
-            <li>
+            {/* <li>
               Made by{" "}
               <a title="PAPA" href="http://www.papareact.com/">
                 PAPA
               </a>
-            </li>
+            </li> */}
           </ul>
         </div>
         <div id="go-top">
