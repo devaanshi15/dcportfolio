@@ -73,22 +73,34 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "ADAGODORD website",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "adagodord.jpg",
+        "url": "https://adagodord.com/"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "FINBUD - finance buddy",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "finbud.jpg",
+        "url": "https://finbud-finance-buddy.koyeb.app/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "VACKAY - travel app",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "vackay.jpg",
+        "url": "https://vackay-travelling-ease-site.vercel.app/index.html"
+      },
+      {
+        "title": "Projects based on IOT",
+        "category": "",
+        "image": "hw.jpg",
+        "url": "https://devaanshi15.github.io/bolt-iot/"
+      },
+      {
+        "title": "Rent IT - BV",
+        "category": "",
+        "image": "rentit.jpg",
+        "url": "https://parulchaddha.github.io/RentItShop/"
       }
     ]
   },
