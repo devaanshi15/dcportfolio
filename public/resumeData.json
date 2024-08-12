@@ -19,7 +19,7 @@
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansanghahttps://www.linkedin.com/in/devaanshi-chaturvedi/",
+        "url": "https://www.linkedin.com/in/devaanshi-chaturvedi/",
         "className": "fa fa-linkedin"
       },
       {
@@ -37,6 +37,18 @@
         "degree": "Bachelor's Degree, Computer Science",
         "graduated": "July 2016",
         "description": "Graduated with First Class Honours"
+      },
+      {
+        "school": "University of Kent - UK",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2016",
+        "description": "Graduated with First Class Honours"
+      },
+      {
+        "school": "University of Kent - UK",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2016",
+        "description": "Graduated with First Class Honours"
       }
     ],
     "work": [
@@ -45,7 +57,14 @@
         "title": "Founder and CEO",
         "years": "May 2019 - Present",
         "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+      },
+      {
+        "company": "PAPA",
+        "title": "Founder and CEO",
+        "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
       }
+
     ],
     "skills": [
       {
