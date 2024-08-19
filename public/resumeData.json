@@ -29,40 +29,39 @@
       }
     ]
   },
+
+
   "resume": {
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Banasthali Vidyapith - Rajasthan, Jaipur",
+        "degree": "Btech IT",
+        "graduated": "June 2025 graduating",
+        "description": "CGPA:  7.49 | 3rd year"
       },
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Modern Public School - Rajasthan, Bhiwadi",
+        "degree": "XII (CBSE)",
+        "graduated": "79.89%| 2021"
       },
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Modern Public School - Rajasthan, Bhiwadi",
+        "degree": "X (CBSE)",
+        "graduated": "89.89%| 2019"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "ADAGODORD",
+        "title": "IT consultant, Full Stack Developer",
+        "description": "I developed the entire website for adagodord.com. ADAGODORD is a comprehensive legal services startup offering expert assistance in patent filing, confidential agreements, prior art search, patent drafting, litigation, product portfolio development, and consulting for new product portfolios. "
       },
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Mayukh National Techfest, Banasthali Vidyapith",
+        "title": "Subscore Technical Team Member",
+        "years": "March 2024-April 2024",
+        "description": " Planned and organized technical events. Worked on the design of posters using UI/UX principles, Canva, and Figma."
       }
 
     ],
@@ -89,6 +88,8 @@
       }
     ]
   },
+
+
   "portfolio": {
     "projects": [
       {
@@ -123,8 +124,11 @@
       }
     ]
   },
-  "testimonials": {
-    "testimonials": [
+
+
+
+  "achievements": {
+    "achievements": [
       {
         "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
         "user": "Jorge Fouto"
@@ -135,4 +139,6 @@
       }
     ]
   }
+
+
 }

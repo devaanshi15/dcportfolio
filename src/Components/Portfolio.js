@@ -33,13 +33,25 @@ const Portfolio = ({ data }) => {
 
           <div
             id="portfolio-wrapper"
-            className="bgrid-quarters s-bgrid-thirds cf"
-          >
+            className="bgrid-quarters s-bgrid-thirds cf">
+            {projects}
+          </div>
+        </div>
+      </div>
+
+      <div className="row">
+        <div className="twelve columns collapsed">
+          <h1>achievements</h1>
+
+          <div
+            id="portfolio-wrapper"
+            className="bgrid-quarters s-bgrid-thirds cf">
             {projects}
           </div>
         </div>
       </div>
     </section>
+    
   );
 };
 
